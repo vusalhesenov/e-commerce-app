@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/utils/AuthencationUtils.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/model/User.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/model/Sale.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/main/MainApp.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/model/Transcation.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/connection/DbConnetion.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/model/Product.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/enums/LoginAction.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/service/UserService.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/dao/UserLoginDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/model/StoreAccount.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/daoimpl/UserLoginDaoImpl.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/model/ProductType.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/service/UserServiceImpl.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/utils/PasswordEncoder.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/e-commerce1/src/model/Store.java</file>
+        </group>
+    </open-files>
+</project-private>
